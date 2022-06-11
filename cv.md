@@ -2,5 +2,3 @@
 
 # Contacts
 # Information
-# Brizrag
-
